@@ -11,21 +11,32 @@
 * Weight Lifting<br>
 
 
-<br>
-<h3>Pushups Demo:-
-<br />
-<img align="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/pushups.gif"  />
-<br>
-Squats Live Demo :-
-<br>
-<img align="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/squats.gif"  />
-<br />
-Crunches Demo :- 
-<br />
-<img align ="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/crunches.gif" />
-<br />
- </h3>
+[//]: # (<br>)
 
-**Made with :heart:** 
-              **-BiraVirus** 
+[//]: # (<h3>Pushups Demo:-)
+
+[//]: # (<br />)
+
+[//]: # (<img align="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/pushups.gif"  />)
+
+[//]: # (<br>)
+
+[//]: # (Squats Live Demo :-)
+
+[//]: # (<br>)
+
+[//]: # (<img align="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/squats.gif"  />)
+
+[//]: # (<br />)
+
+[//]: # (Crunches Demo :- )
+
+[//]: # (<br />)
+
+[//]: # (<img align ="center" src="https://github.com/shreyanshsatvik/personal-trainer/blob/main/Gif/crunches.gif" />)
+
+[//]: # (<br />)
+
+[//]: # ( </h3>)
+
 
